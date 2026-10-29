@@ -1,2 +1,2 @@
-Showing biggest files in directory
-cleany /
+Showing biggest files in directory  
+Example: cleany /
